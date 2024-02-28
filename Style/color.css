@@ -1,0 +1,23 @@
+#page{
+    color: red;
+}
+.text{
+color: rgb(7, 14, 219);
+width: 90%; 
+font-size: 17px;
+}
+.text2{
+    color: rgb(38, 231, 218);
+}
+.text3{
+  font-size: 25px;  
+}
+.link{
+    text-decoration: none;
+}
+.text4{
+    text-align: center;
+    line-height: 40px;
+    color:red;
+    width: 90%;
+}
